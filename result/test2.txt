@@ -1,0 +1,5 @@
+These are top 10 key words:
+transport, particle, coarse, test, equation, germany, workshop, gradient, many-body, kadanoff-baym
+
+These are document summary:
+Using a test particle ansatz for this conserved quantity allows to rewrite the transport equation into equations of motion for test particles. An effective particle number is identified which is exactly conserved by the coarse grained transport equation. The two-body collision terms are formulated in terms of the test particles which gain non-trivial renormalization factors due to the coarse graining process. September 1999. Comments: 10 pages, LaTeX, no figures, Talk given at the workshop ``Kadanoff-Baym Equations --- Progress and Perspectives for Many-Body Physics'', Rostock, Germany, 20.-24.

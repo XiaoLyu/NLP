@@ -1,0 +1,8 @@
+These are top 10 key words:
+microsoft, company, new, software, computer, office, market, division, program, part
+
+These are modified key words:
+new software, microsoft office, microsoft market, program microsoft, division microsoft, microsoft company, part program, computer software
+
+These are document summary:
+As a result, in 2010 Microsoft revamped their aging flagship mobile operating system, Windows Mobile, replacing it with the new Windows Phone OS. :20 Windows 95 came bundled with the online service MSN (which was at first intended to be a competitor to the Internet), and (for OEMs) Internet Explorer, a web browser.
